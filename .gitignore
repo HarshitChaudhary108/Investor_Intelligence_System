@@ -10,5 +10,6 @@ wheels/
 .venv
 .env
 uv.lock
+notebook.ipynb
 data/raw_pdf/
 data/markdown/
