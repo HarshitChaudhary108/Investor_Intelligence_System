@@ -1,0 +1,109 @@
+--- Doc 1 ---
+
+
+stocklight.com > Stocks > United States NVIDIA Corporation > Annual Reports > 2026 Annual Report 
+
+
+
+**NVIDIA Corporation Annual Report 2026 Form 10-K (NASDAQ:NVDA)** 
+
+Published: February 25th, 2026 
+
+
+
+
+
+# **NVIDIA Corporation (NVDA) Historical Annual Reports 2004-2025** 
+
+|**Year**|**Report**|**Size**|
+|---|---|---|
+|2025|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Feb 26th, 2025|933kb|
+|2024|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Feb 21st, 2024|925kb|
+|2023|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Feb 24th, 2023|924kb|
+|2022|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 18th, 2022<br>Brought to you by|726kb|
+|2021|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Feb 26th, 2021|720kb|
+|2020|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Feb 20th, 2020|918kb|
+|2019|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Feb 21st, 2019|988kb|
+|2018|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Feb 28th, 2018|1021kb|
+|2017|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 1st, 2017|1.1mb|
+
+
+
+|2016|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 17th, 2016|1.0mb|
+|---|---|---|
+|2015|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 12th, 2015|942kb|
+|2014|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 13th, 2014|1020kb|
+|2013|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 12th, 2013|1.1mb|
+|2012|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 13th, 2012|1.1mb|
+|2011|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 16th, 2011|869kb|
+|2010|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 18th, 2010|152kb|
+|2009|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 13th, 2009|152kb|
+|2008|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 21st, 2008|868kb|
+|2007|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 16th, 2007|152kb|
+|2006|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Nov 29th, 2006|741kb|
+
+
+
+|2006|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 16th, 2006|825kb|
+|---|---|---|
+|2005|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 22nd, 2005|737kb|
+|2004|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - May 20th, 2004|209kb|
+|2004|NVIDIA Corporation (NVDA) 10-K Annual<br>Report - Mar 29th, 2004|544kb|
+
+
+
+**UNITED STATES SECURITIES AND EXCHANGE COMMISSION** 
+
+**Washington, D.C. 20549** 
+
+## **FORM 10-K** 
+
+☒ 
+
+**ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934** 
+
+**For the fiscal year ended January 25, 2026** 
+
+**OR** 
+
+☐ 
+
+**TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934** 
+
+**Commission file number: 0-23985** 
+
+
+
+## **NVIDIA CORPORATION** 
+
+**(Exact name of registrant as specified in its charter)** 
+
+**Delaware** 
+
+**(State or other jurisdiction of** 
+
+**incorporation or organization)** 
+
+**94-3177549** 
+
+**(I.R.S.
+
+--- Doc 2 ---
+All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries. Certain prior fiscal year balances have been reclassified to conform to the current fiscal year presentation. Non-marketable equity securities, previously presented within other assets, were reclassified to be presented separately on our consolidated balance sheets and had no impact to total assets or consolidated statement of cash flows. #### **Fiscal Year** 
+
+We operate on a 52- or 53-week year, ending on the last Sunday in January. Fiscal years 2026, 2025 and 2024 were all 52-week years. Fiscal year 2027 will be a 53week year with the fourth quarter consisting of 14 weeks. #### **Principles of Consolidation** 
+
+Our consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. #### **Use of Estimates** 
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ materially from our estimates. On an on-going basis, we evaluate our estimates, including those related to accounts receivable, cash equivalents and marketable securities, goodwill, income taxes, inventories and product purchase commitments, investigation and settlement costs, litigation, non-marketable equity securities, other contingencies, property, plant, and equipment, revenue recognition, and stock-based compensation. These estimates are based on historical facts and various other assumptions that we believe are reasonable. #### **Revenue Recognition** 
+
+We derive our revenue primarily from product sales including hardware and systems. We determine revenue recognition through the following steps: (1) identification of the contract with a customer; (2) identification of the performance obligations in the contract; (3) determination of the transaction price; (4) allocation of the transaction price to the performance obligations in the contract (where revenue is allocated on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation); and (5) recognition of revenue when, or as, we satisfy a performance obligation. Payment from customers, per our standard payment terms, is generally due shortly after delivery of our products. #### **Product Sales Revenue** 
+
+Revenue from product sales is recognized upon transfer of control of products to customers in an amount that reflects the consideration we expect to receive in exchange for those products. Certain products are sold with support or an extended warranty. Support and extended warranty revenue are recognized ratably over the service period, or as services are performed. Revenue is recognized net of allowances for returns, customer programs and any taxes collected from customers. For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if product returns for a fiscal period are anticipated to exceed historical return rates, we may determine that additional sales return allowances are required to accurately reflect our estimated exposure for product returns. Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and MDFs which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners’ activities while also promoting NVIDIA products. We account for customer programs as a reduction to revenue and accrue for such programs for potential rebates and MDFs based on the amount we expect to be claimed by customers. **NVIDIA Corporation and Subsidiaries Notes to the Consolidated Financial Statements** (Continued) 
+
+#### **Contracts with Multiple Performance Obligations** 
+
+Our contracts may contain more than one deliverable, each of which is separately accounted for as a distinct performance obligation. We account for multiple agreements with a single customer as a single contract if the contractual terms and/or substance of those agreements indicate that they may be so closely related that they are, in effect, parts of a single contract. We allocate the total transaction price to each distinct performance obligation in an arrangement with multiple performance obligations on a relative standalone selling price basis. The standalone selling price reflects the price we would charge for a specific product or service if it were sold separately in similar circumstances and to similar customers. When determining standalone selling price, we maximize the use of observable inputs. #### **Product Warranties** 
+
+We offer a limited warranty to end-users ranging from one to three years for products to repair or replace products for manufacturing defects or hardware component failures. Cost of revenue includes the estimated cost of product warranties that are calculated at the point of revenue recognition. Under limited circumstances, we may offer an extended limited warranty to customers for certain products.
+
